@@ -1,3 +1,5 @@
+package arrayprbs;
+
 public class addtwonumwithoutthrdvar {
 
 	public static void main(String[] args) {
@@ -20,6 +22,3 @@ public class addtwonumwithoutthrdvar {
 		
 
 	}
-
-}
-
